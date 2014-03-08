@@ -12,7 +12,7 @@ class Rectangle
   end
 
   def perimeter
-    2* (@length + @width)
+    2* (@length + @width) 
   end
 
 end 
